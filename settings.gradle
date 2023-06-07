@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "NumberGame_Baseball_Button"
